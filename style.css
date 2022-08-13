@@ -1,0 +1,23 @@
+
+body{
+    background-color: rgba(193, 218, 220, 0.903);
+}.btn{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 188px;
+    height: 42px;
+    text-align: center;
+    border-radius: 20px;
+    color: rgb(254, 254, 254);
+    background-color: rgb(115, 133, 143);
+    border: none;
+    text-transform: uppercase;
+    background-color: rgb(45, 45, 114);
+    box-shadow: 0px 8px 10px rgb(1 1 24);
+    font-weight: bolder;
+    font-size: 15px
+}
+.btn span:last-child{
+    display: none;
+}
